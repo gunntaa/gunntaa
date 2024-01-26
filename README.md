@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gunntaa
-- 👀 I’m interested in coding
+- 👋 Hi, I’m @gunntaa. I'm electrical engineer
+- 👀 I’m interested in microcontroller.
 - 🌱 I’m currently learning Python
 
 <!---
